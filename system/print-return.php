@@ -1,6 +1,5 @@
 <?php 
   session_start();
-  error_reporting(0);
   ?>
 <head>
 <title>Report - Point of Sale</title>

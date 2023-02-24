@@ -1,5 +1,5 @@
 <?php
-session_start();
+// session_start();
 if($_SESSION['namauser'] == '' ){
 		echo "<script>window.alert('Untuk mengakses, Anda harus Login Sebagai Admin');
         window.location=('../login.html')</script>";

@@ -1,6 +1,5 @@
 <?php 
-  session_start();	
-  error_reporting(0);
+  session_start();
   include "../config/koneksi.php";
   include "../config/fungsi_indotgl.php";
   include "../config/class_paging.php";
